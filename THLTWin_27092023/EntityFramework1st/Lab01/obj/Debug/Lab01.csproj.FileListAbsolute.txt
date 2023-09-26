@@ -1,0 +1,15 @@
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\bin\Debug\Lab01.exe.config
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\bin\Debug\Lab01.exe
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\bin\Debug\Lab01.pdb
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\bin\Debug\EntityFramework.dll
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\bin\Debug\EntityFramework.xml
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\obj\Debug\Lab01.Form1.resources
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\obj\Debug\Lab01.csproj.GenerateResource.cache
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\obj\Debug\Lab01.csproj.CopyComplete
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\obj\Debug\Lab01.exe
+E:\C#\THLTWin_27092023\EntityFramework1st\Lab01\obj\Debug\Lab01.pdb
